@@ -8,7 +8,7 @@
 
 ## 📖 About me
 
-* 💻 I'm a full stack web developer and I've 8+ years of experience in developing Web-based solutions for my clients to grow their business
+* 💻 I'm a full stack web developer and I've 5+ years of experience in developing Web-based solutions for my clients to grow their business
 * 📺 I make web and app development
 * 📺  I am proficient in PHP, Laravel, React JS, Android, iOS, and AWS based technologies.
 
