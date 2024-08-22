@@ -15,9 +15,9 @@
 
 ## 📖 Core skills
 
-* 🔭 Frontend : React.js, Angular
+* 🔭 Frontend : React.js, Next JS, Vue JS
 * 🔭 Backend : PHP / Laravel, CI, Node.js
-* 📱  Mobile : Android, iOS, Java, Kotlin, Swift
+* 📱  Mobile : Flutter, React Native, Android, iOS, Java, Kotlin, Swift
 * 🌱 Libraries : Bootstrap, TailwindCSS, Material UI, AntD
 * 💬 Database : MySQL, MongoDB, PostgreSQL, SQLite
 * 📫 Languages : JavaScript, TypeScript, HTML5, CSS/SCSS/LESS, PHP
