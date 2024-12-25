@@ -10,7 +10,7 @@
 
 * 💻 I'm a full stack web developer and I've 8+ years of experience in developing Web-based solutions for my clients to grow their business
 * 📺 I make web and app development
-* 📺  I am proficient in PHP, Laravel, React JS, Android, iOS, and AWS based technologies.
+* 📺  I am proficient in PHP, Laravel, React JS, Vue JS, Flutter, Android, iOS, and AWS based technologies.
 
 
 ## 📖 Core skills
